@@ -1,4 +1,4 @@
-package main.java.书本分发;
+package 书本分发;
 
 import java.util.*;
 
